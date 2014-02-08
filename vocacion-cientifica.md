@@ -2,7 +2,7 @@
 title: "Posibles riesgos de una vocación científica temprana"
 imagen-titulo: "/pics/mariposa-titulo.jpg"
 portada-revista: "/pics/matera7.jpg"
-titulo-revista: "Matera 6: Tenemos Animales"
+titulo-revista: "Matera 7: Tenemos Animales"
 layout: cuento
 ---
 
