@@ -1,0 +1,19 @@
+{% include header.html %}
+   <div id="titulo-cuento" class="container-fluid">
+    <header>
+    <img src="{{ site.url }}{{ page.imagen-titulo }}">
+    <h1 id="tit">{{ page.title }}</h1>
+    </header>
+    </div>
+       
+    <div class="container cuento">
+      <div class="row">
+        <div class="col-md-8 texto">
+          {{ content }}
+        </div>
+        <div class="col-md-4"><p class="text-center"><img id="portada-revista" src="{{ site.url }}{{ page.portada-revista }}"></p>
+
+        <p class="text-center"><small>Publicado originalmente en <br>{{ page.titulo-revista }}</small></p></div>
+      </div>
+    </div>
+{% include footer.html %}
