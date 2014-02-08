@@ -1,4 +1,4 @@
 finiterank.github.io
 ====================
 
-The pages
+[Anticipaciones](http://finiterank.github.io): Seis textos publicados en Revista Matera.
