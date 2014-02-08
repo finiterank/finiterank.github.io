@@ -49,7 +49,9 @@ La ciencia es cruel.
 Se estima que cuatrocientas veintinueve mariposas convivían (es un decir) dentro del frasco industrial de mayonesa Fruco.
 
 Para ese momento, la pared interior del frasco industrial de mayonesa Fruco estaba uniformemente cubierta por un polvillo parduzco proveniente (conjetura) del aleteo desesperado de las mariposas recluídas, lo que dificultaba el seguimiento demográfico estricto que exigían los protocolos.
+
 Observación empírica: bajo condiciones de hacinamiento extremas, la mariposa común está capacitada para practicar sin remordimiento el canibalismo y, por ende, la necromancia.
+
 La hipótesis de trabajo fue confirmada (a su manera).
 
 Nota al margen: lo anterior, por cierto, también aplica a seres humanos, como evidencia la experiencia haitiana.
