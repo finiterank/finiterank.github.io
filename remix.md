@@ -1,8 +1,8 @@
 ---
 title: "Remix"
 imagen-titulo: "/pics/piso-titulo.jpg"
-portada-revista: "/pics/matera9.jpg"
-titulo-revista: "Matera 10: Tenemos Mezcla"
+portada-revista: "/pics/matera10-11.jpg"
+titulo-revista: "Matera 10-11: Tenemos Masacote"
 layout: cuento
 ---
 
