@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Exo+2:200&subset=latin,latin-ext);
 
 body, html{font-family: 'Exo 2', sans-serif;
-			background-color: #FFFCF0;}
+			background-color: #FFF;}
 
 hr {
 	margin-top:2em;
@@ -40,6 +40,7 @@ font-size:5em;}
 #portada-revista{width: 70%;}
 
 .image-bg img{width:100%;}
+
 header {display:block;
 	margin:0;
 	padding:0;
